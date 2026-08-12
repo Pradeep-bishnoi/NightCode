@@ -19,6 +19,7 @@
     "@nightcode/shared": "workspace:*",
     "@opentui/core": "^0.5.1",
     "@opentui/react": "^0.5.1",
+    "date-fns": "^4.4.0",
     "eventsource-parser": "^4.0.0",
     "hono": "^4.13.1",
     "opentui-spinner": "^0.0.7",
